@@ -1,4 +1,4 @@
-# Github-portfolio
+# Portfolio
 # 👋 Hi, I'm Aftab Ahmed
 
 🎓 VIth Semester Computer Science Student at **Sukkur IBA University**  
