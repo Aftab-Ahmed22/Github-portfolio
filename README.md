@@ -35,13 +35,13 @@
 
 ## 🚀 Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| **Portfolio Website** | Personal site with projects & blogs | React, Tailwind | [Live](#) |
-| **MERN Blog App** | Blog with full CRUD, auth | MongoDB, Express, React, Node | [Repo](#) |
-| **E-Commerce App** | Online shop with cart & checkout | Next.js, MongoDB | [Live](#) |
-| **Chat App** | Real-time messaging | Socket.io, React, Node | [Repo](#) |
-| **UI Playground** | Testing generative UI concepts | React, Tailwind | [Repo](#) |
+//| Project | Description | Stack | Link |
+//|--------|-------------|-------|------|
+//| **Portfolio Website** | Personal site with projects & blogs | React, Tailwind | [Live](#) |
+//| **MERN Blog App** | Blog with full CRUD, auth | MongoDB, Express, React, Node | [Repo](#) |
+//| **E-Commerce App** | Online shop with cart & checkout | Next.js, MongoDB | [Live](#) |
+//| **Chat App** | Real-time messaging | Socket.io, React, Node | [Repo](#) |
+//| **UI Playground** | Testing generative UI concepts | React, Tailwind | [Repo](#) |/*
 
 > 📌 More projects coming soon. Stay tuned!
 
