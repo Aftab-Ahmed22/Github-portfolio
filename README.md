@@ -61,7 +61,7 @@
 ## 📫 Get in Touch
 
 - **Email:** [aftabahmed.bscsf22@iba-suk.edu.pk)](mailto:aftabahmed.bscsf22@iba-suk.edu.pk)  
-- **LinkedIn:** [linkedin.com/in/aftabahmed](#)  
+- **LinkedIn:** [linkedin.com/in/](#)  
 - 
 
 ---
