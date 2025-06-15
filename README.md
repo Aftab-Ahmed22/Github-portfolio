@@ -69,7 +69,7 @@
 
 ## 📫 Get in Touch
 
-- **Email:** [aftab@example.com](mailto:aftabahmed.bscsf22@iba-suk.edu.pk)  
+- **Email:** [](mailto:aftabahmed.bscsf22@iba-suk.edu.pk)  
 - **LinkedIn:** [linkedin.com/in/aftabahmed](#)  
 - 
 
