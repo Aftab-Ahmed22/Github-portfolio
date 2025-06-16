@@ -53,8 +53,8 @@
 
 ## 📈 GitHub Stats
 
-![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AftabAhmed&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AftabAhmed&layout=compact&theme=radical)
+![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab-Ahmed22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-Ahmed22&layout=compact&theme=radical)
 
 ---
 
